@@ -2,7 +2,7 @@
 Ohjelmistoprojekti I harjoitus
 
 
-dlksjfölskdajfölsakdjf
+ja vielä kerran pojat
 
 GitHubin käytön harjoittelua, yritetään saada ns. konflikti aikaiseksi.
 
