@@ -1,9 +1,6 @@
 # gitHarkkaTiimi1
 Ohjelmistoprojekti I harjoitus
 
-
-dlksjfölskdajfölsakdjf
-
 GitHubin käytön harjoittelua, yritetään saada ns. konflikti aikaiseksi.
 
 Tehtävän kuvaus
